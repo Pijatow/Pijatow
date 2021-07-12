@@ -5,5 +5,5 @@
 <hr/>
 
 - 📫 How to reach me: 
-             [instagram](https://instagram.com/pijatow)
-             [Linkedin](https://www.linkedin.com/in/mahdi-jalali-bb37121b1/)
+             [Instagram](https://instagram.com/pijatow)
+             [LinkedIn](https://www.linkedin.com/in/mahdi-jalali-bb37121b1/)
