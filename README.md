@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Mahdi Jalali :) , aka @Pijatow
 - 👀 I’m interested in Python, Django, AI, and other programming stuff.
 - 🌱 I’m currently learning Python, Django and ...
-- 📫 How to reach me: instagram -> pijatow ::: LinkedIn -> https://www.linkedin.com/in/mahdi-jalali-bb37121b1/
+- 📫 How to reach me: 
+-             instagram -> https://instagram.com/pijatow
+-             LinkedIn -> https://www.linkedin.com/in/mahdi-jalali-bb37121b1/
